@@ -5,12 +5,12 @@ import "firebase/firestore";
 import "firebase/storage";
 
 const config = {
-  apiKey: "AIzaSyAuOCUL8dP1fhVeNh72CNNdkjrLBBsl7Do",
-  authDomain: "labo-144c2.firebaseapp.com",
-  projectId: "labo-144c2",
-  storageBucket: "labo-144c2.appspot.com",
-  messagingSenderId: "597637468828",
-  appId: "1:597637468828:web:31f1d29f2aad530e811359",
+    apiKey: "AIzaSyC1D3hRkjtBWRzzeGdnJ8Mp86biCPONHm8",
+    authDomain: "linkall-307017.firebaseapp.com",
+    projectId: "linkall-307017",
+    storageBucket: "linkall-307017.appspot.com",
+    messagingSenderId: "129700838875",
+    appId: "1:129700838875:web:63ad66702fedf9698c3bfe"
 };
 
 class Firebase {
